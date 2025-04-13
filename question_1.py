@@ -1,4 +1,4 @@
-# Step 1: Install and Import Required Libraries
+# Step 1: Install libraries
 !pip install -q torchvision wandb
 
 import wandb
